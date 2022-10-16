@@ -1,3 +1,4 @@
+console.log("asdad");
 var w, container, carousel, item, radius, itemLength, rY, ticker, fps; 
 		var mouseX = 0;
 		var mouseY = 0;
